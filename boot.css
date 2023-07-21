@@ -1,0 +1,54 @@
+body{
+    background-color: #000;
+    
+}
+.container-fluid{
+    padding: 3% 6%;
+}
+
+
+
+#title{
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+  
+}
+
+#features{
+    background-color: #000;
+    
+    
+    ;
+    
+    line-height: 2;
+}
+#testimonials{
+    padding: 3% 3%;
+   
+    text-align: center;
+    justify-content: space-evenly;
+
+    
+
+}
+#press{
+  
+    
+     
+
+}
+h1{
+    color: red;
+    font-size: 70px;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+    font-size: 65px;
+}
+p{
+    color: rgb(255, 255, 255);
+}
